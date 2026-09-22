@@ -159,7 +159,7 @@ theChords = \chordmode {
     \override Score.SystemStartBar. #'collapse-height = #1  % allow single-staff system bars
   }
   \midi {
-    \tempo 4 = 100
+    \tempo 4 = 200
   }
 }
 
